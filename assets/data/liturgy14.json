@@ -1,0 +1,29 @@
+[
+  {
+    "id" : 14,
+    "title": "A vasárnapi istentisztelet énekelt liturgikus rendjei",
+    "dicsoseg": "l_14_dicsoseg_az_atyanak",
+    "uramIrgalmazz": "l_14_uram_irgalmazz",
+    "dicsoseg2": "l_14_dicsoseg_a_magassagban",
+    "szentASeregekUra": "l_14_szent_a_seregek_ura",
+    "krisztusIstenBaranya": "l_14_krisztus_isten_baranya"
+  },
+  {
+    "id" : 15,
+    "title": "A vasárnapi istentisztelet énekelt liturgikus rendjei",
+    "dicsoseg": "l_15_dicsoseg_az_atyanak",
+    "uramIrgalmazz": "l_15_uram_irgalmazz",
+    "dicsoseg2": "l_15_dicsoseg_a_magassagban",
+    "szentASeregekUra": "l_15_szent_a_seregek_ura",
+    "krisztusIstenBaranya": "l_15_krisztus_isten_baranya"
+  },
+  {
+    "id" : 16,
+    "title": "A vasárnapi istentisztelet énekelt liturgikus rendjei",
+    "dicsoseg": "l_16_dicsoseg_az_atyanak",
+    "uramIrgalmazz": "l_16_uram_irgalmazz",
+    "dicsoseg2": "l_16_dicsoseg_a_magassagban",
+    "szentASeregekUra": "l_16_szent_a_seregek_ura",
+    "krisztusIstenBaranya": "l_16_krisztus_isten_baranya"
+  }
+]
